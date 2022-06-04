@@ -1,0 +1,19 @@
+<h3>{{ currentConnectionId }}</h3>
+<table>
+    <thead>
+        <tr>
+            <th width="5%"></th>
+            <th width="25%">FROM</th>
+            <th width="30%">ID</th>
+            <th width="40%">DATE</th>
+        </tr>    
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of snapshotIDs; let i = index">
+            <td>{{ i }}</td>
+            <td>{{ item.from }}</td>
+            <td># {{ item.id }}</td>
+            <td>{{ item.date }}</td>
+        </tr>
+    </tbody>
+</table>
