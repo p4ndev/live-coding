@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumWithPairs", "SumWithPairs\SumWithPairs.csproj", "{7FA2E869-34CB-4285-966A-188EA6D6047E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA2E869-34CB-4285-966A-188EA6D6047E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA2E869-34CB-4285-966A-188EA6D6047E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA2E869-34CB-4285-966A-188EA6D6047E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA2E869-34CB-4285-966A-188EA6D6047E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328879B3-4395-4840-BC92-D4A607CB6121}
+	EndGlobalSection
+EndGlobal
