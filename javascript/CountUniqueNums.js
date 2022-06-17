@@ -5,7 +5,7 @@ function countUniqueNums(arr){
     
     let i = 0;
     
-    for(let j = 0; i < arr.lenght; j++){
+    for(let j = 0; j < arr.lenght; j++){
         if(arr[i] !== arr[j]){
             i++;
             arr[i] = arr[j];
